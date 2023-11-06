@@ -1,1 +1,1 @@
-# find the datasets in the dataset folder and code in notebook.py
+# find the datasets in the datasets folder and code in notebook.py
